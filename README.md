@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://github.com/Crosty02/Crosty02/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png?raw=true" width="800"/>
 </div>
+
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-puentes/)
   
 <div id="badges" align="center">
