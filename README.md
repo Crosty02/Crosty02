@@ -5,7 +5,7 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-puentes/)
 
   <div id="badges" align="center">
-<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=crosty02.crosty02&color=00cf00" alt=""/>
+<img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Crosty02.crosty02&color=00cf00" alt=""/>
   
 
 <h1 align="center">
@@ -17,7 +17,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Apasionada de la tecnología y disfrutando de una transición laboral Quality Assurance Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología y disfrutando de una transición laboral a Quality Assurance Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: Actualmente estoy trabajando en el departamento de comercio exterior pero necesito nuevos retos :muscle:
 
@@ -47,7 +47,7 @@ Apasionada de la tecnología y disfrutando de una transición laboral Quality As
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=crosty02&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Crosty02&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crosty02&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
