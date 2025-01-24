@@ -1,14 +1,10 @@
 <div id="header" align="center">
   <img src="https://github.com/Crosty02/Crosty02/blob/main/Black%20and%20Beige%20Modern%20Handwriting%20Professional%20Business%20LinkedIn%20Banner.png?raw=true" width="800"/>
 </div>
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/crystal-puentes/)
+  
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/crystal-puentes">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
-<div id="counter" align="center">
-  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Crosty02.Crosty02&color=00cf00" alt="Contador de visitas"/>
-</div>
+  <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Crosty02.Crosty02&color=00cf00" alt=""/>
 
 <h1 align="center">
   Hola, soy Crystal Puentes. ¡Encantada de conocerte!
