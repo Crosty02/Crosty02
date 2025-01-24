@@ -19,7 +19,7 @@
  <div id="header" align="left">
 
 ### :woman_technologist: Sobre mí :
-Apasionada de la tecnología y disfrutando de una transición laboral al Data Analytics <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Apasionada de la tecnología y disfrutando de una transición laboral Quality Assurance Engineer <img decoding="async" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 * :telescope: Actualmente estoy trabajando en el departamento de comercio exterior pero necesito nuevos retos :muscle:
 
